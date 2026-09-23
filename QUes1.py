@@ -1,2 +1,3 @@
 # Make a program
-a = int(input(""))ssss
+a = int(input(""))
+b = int(input(""))
