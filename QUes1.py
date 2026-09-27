@@ -2,4 +2,4 @@
 a = int(input(""))
 b = int(input(""))
 sum = a + b
-print
+print("The Sum of a & b :")
