@@ -1,2 +1,2 @@
 # Make a code on sabtraction 
-a = int(input())
+a = int(input("Enter a :"))
