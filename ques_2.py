@@ -2,4 +2,4 @@
 a = int(input("Enter value a :"))
 b = int(input("Enter value b :"))
 diff = a - b
-print("The diff between ", diff)
+print("The diff between a ", diff)
