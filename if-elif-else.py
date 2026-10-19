@@ -4,6 +4,5 @@ b = int(input("Enter the values of b: "))
 
 if(a > b):
     print("a is grater than b")
-print("ais less than b")
-else
+else:
     print("ais less than b")
