@@ -19,5 +19,5 @@ print(type(b))
 '''
 we have 2 more Data Type 
 1. Boolean  True or False  
-2. none mean nothing
+2. none mean nothing no value is given 
 '''
