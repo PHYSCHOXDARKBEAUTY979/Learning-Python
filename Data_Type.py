@@ -15,3 +15,9 @@ print(type(a))
 print(type(b))
 
 #Data type we learn about what type of variable is in which type 
+
+'''
+we have 2 more Data Type 
+1. Boolean  True or False  
+2. none mean nothing
+'''
